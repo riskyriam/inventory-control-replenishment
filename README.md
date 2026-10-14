@@ -26,4 +26,5 @@ Methodology
 - Demand-Based Replenishment Planning
 
 Limitations
+
 Dataset tidak menyediakan informasi lead time aktual. Oleh karena itu, replenishment menggunakan pendekatan berbasis data historis dan belum mempertimbangkan lead time serta safety stock. Hasilnya merupakan rekomendasi simulasi, bukan sistem replenishment operasional.
