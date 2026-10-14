@@ -1,5 +1,5 @@
 # inventory-control-replenishment
-# Inventory Control & Replenishment Planning
+Inventory Control & Replenishment Planning
 
 Project Overview
 Proyek ini bertujuan mempelajari penerapan inventory control melalui analisis demand, inventory level, ABC Analysis, dan demand-based replenishment menggunakan SQL Server dan Excel.
